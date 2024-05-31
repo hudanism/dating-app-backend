@@ -30,3 +30,17 @@ This project is a backend system for a Dating Mobile App with functionalities si
 - Security
 - Performance
 - Usability
+
+## Postman Test
+
+- Register users
+  ![alt text](image.png)
+
+- Duplicate user registration
+  ![alt text](image-2.png)
+
+- Login users
+  ![alt text](image-1.png)
+
+- Failed login due to invalid credentials
+  ![alt text](image-3.png)
